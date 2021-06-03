@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdhdf&label=Profile%20views&color=0e75b6&style=flat" alt="fdhdf" /> </p>
 
-<img src="image.jpg" align="center" width="720">
 
 - 📫 My primary coding language : Python
 
