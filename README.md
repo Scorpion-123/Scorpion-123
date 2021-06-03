@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankit Dey</h1>
-<h3 align="center">Programmer | YouTuber | Tech Enthusiast</h3>
+<h3 align="center">Programmer | YouTuber | Tech Enthusiast | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdhdf&label=Profile%20views&color=0e75b6&style=flat" alt="fdhdf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdhdf" alt="fdhdf" /></a> </p>
+
+- 📫 My primary coding language : Python
+
+- 📫 Earned Gold badge & 5 star at HackerRank in Python programming.
 
 - 👨‍💻 All of my projects are available at [https://scorpion-123.github.io/PORTFOLIO-WEBSITE/](https://scorpion-123.github.io/PORTFOLIO-WEBSITE/)
 
@@ -15,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-dey-6689571b9/" target="blank"><img align="center" src="linkedinsvg" alt="https://www.linkedin.com/in/ankit-dey-6689571b9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-dey-6689571b9/" target="blank"><img align="center" src="linkedin.svg" alt="https://www.linkedin.com/in/ankit-dey-6689571b9/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/pytho_n_programmer" target="blank"><img align="center" src="instagram.svg" alt="https://instagram.com/pytho_n_programmer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbp63g76h5g9tbdyzlcscyw" target="blank"><img align="center" src="youtube.svg" alt="https://www.youtube.com/channel/ucbp63g76h5g9tbdyzlcscyw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ankitdey153" target="blank"><img align="center" src="hackerrank.svg" alt="https://www.hackerrank.com/ankitdey153" height="30" width="40" /></a>
