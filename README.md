@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdhdf&label=Profile%20views&color=0e75b6&style=flat" alt="fdhdf" /> </p>
 
-![alt text](image.jpeg) 
+![alt text](image.jpg) 
 
 - 📫 My primary coding language : Python
 
