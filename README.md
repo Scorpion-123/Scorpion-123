@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Dey</h1>
 <h3 align="center">Programmer | YouTuber | Tech Enthusiast | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdhdf&label=Profile%20views&color=0e75b6&style=flat" alt="fdhdf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Scorpion-123&label=Profile%20views&color=0e75b6&style=flat" alt="fdhdf" /> </p>
 
 
 - 📫 My primary coding language : Python
